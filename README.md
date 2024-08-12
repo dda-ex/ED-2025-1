@@ -14,6 +14,9 @@ La evaluación del curso será la siguiente:
 |      20%     |      Tareas     |
 |      30%     |  Proyecto final |
 
+## Grupo de trabajo de telegram
+https://t.me/+MxIVXxHXKPM1YWEz
+
 ## Bibliografía
 * La bibliografía del curso comprende los siguientes libros:
 Understanding and Using C Pointers - Richard Reese
