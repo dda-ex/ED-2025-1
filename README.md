@@ -14,6 +14,9 @@ La evaluación del curso será la siguiente:
 |      20%     |      Tareas     |
 |      30%     |  Proyecto final |
 
+Nota: Tarea_copiada = anulacion_para_los_implicados - La vida es muy corta para preocuparse por atribuir responsabilidades
+Uso de herramientas de AI para creación del tareas y programas está totalmente descartado.
+
 ## Grupo de trabajo de telegram
 https://t.me/+MxIVXxHXKPM1YWEz
 
@@ -21,9 +24,7 @@ https://t.me/+MxIVXxHXKPM1YWEz
 * La bibliografía del curso comprende los siguientes libros:
 Understanding and Using C Pointers - Richard Reese
 http://www.sauleh.ir/fc98/static_files/materials/Richard%20Reese-Understanding%20and%20Using%20C%20Pointers-O%27Reilly%20Media%20(2013).pdf
-
 * Introduction to Algorithms, Cormen
-
 * Cairó, Osvaldo & Guardati, Silvia. (2006). Estructuras de datos (3 ed). México: McGraw-Hill
 
 ## Organización del repositorio
@@ -45,11 +46,14 @@ data_structure/
 
 ### Tareas a mano
  * T1 Video Erroes en JVM - 12 de agosto de 2024
- * T2 Diagrama del factorial
+ * T2 Diagrama del factorial - 12 de agosto de 2024
+ * PT3 Recorrido de matrices - 19 de agosto de 2024
 
-### Programas
+T: Tarea
+PT: Programa de tarea
 
-## Tabla de programas
+### Entrega
+La entrega de los programás deberá ser en git
 
 #### Nota:
 Se recomienda la revisón del programa de lectura de argumentos desde la línea de comandos para la generación de los programas P2E y P3D.
@@ -59,8 +63,7 @@ Se recomienda la revisón del programa de lectura de argumentos desde la línea 
 Favor de agregar su repositorio git
 https://docs.google.com/spreadsheets/d/1EiSxzBN49a4ddGAD6NlUQ-u89SwVOTl2ZYJIyAwCD9M/edit?usp=sharing
 
-### Entrega
-La entrega de los programás deberá ser en git
+
 
 ## Avance de tareas
 En el siguiente enlace puede consultar el avance de sus tareas y actividades:
