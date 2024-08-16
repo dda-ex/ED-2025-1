@@ -49,8 +49,11 @@ data_structure/
  * T2 Diagrama del factorial - 12 de agosto de 2024
  * PT3 Recorrido de matrices - 19 de agosto de 2024
 
-T: Tarea
-PT: Programa de tarea
+Revisar
+T: Tarea / PT: Programa de tarea
+
+Revisar el documento en este git llamado tareas
+
 
 ### Entrega
 La entrega de los programás deberá ser en git
@@ -60,14 +63,10 @@ Se recomienda la revisón del programa de lectura de argumentos desde la línea 
 
 ### Adicional
 #### Repositorios GIT
-Favor de agregar su repositorio git
-https://docs.google.com/spreadsheets/d/1EiSxzBN49a4ddGAD6NlUQ-u89SwVOTl2ZYJIyAwCD9M/edit?usp=sharing
-
-
+Favor de agregar su repositorio git: https://docs.google.com/spreadsheets/d/1EiSxzBN49a4ddGAD6NlUQ-u89SwVOTl2ZYJIyAwCD9M/edit?usp=sharing
 
 ## Avance de tareas
-En el siguiente enlace puede consultar el avance de sus tareas y actividades:
-https://docs.google.com/spreadsheets/d/1PZBY6lMJwZ77TwG3gn30ilymOwsRsSdDK2SZCUzHnLE/edit?usp=drive_link
+En el siguiente enlace puede consultar el avance de sus tareas y actividades: https://docs.google.com/spreadsheets/d/1PZBY6lMJwZ77TwG3gn30ilymOwsRsSdDK2SZCUzHnLE/edit?usp=drive_link
 
 ## Recusos adicionales
 
