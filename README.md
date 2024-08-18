@@ -43,11 +43,10 @@ data_structure/
 ```
 
 ## Fechas de entrega de tareas
-
-### Tareas a mano
  * T1 Video Erroes en JVM - 12 de agosto de 2024
  * T2 Diagrama del factorial - 12 de agosto de 2024
  * PT3 Recorrido de matrices - 19 de agosto de 2024
+ * PT4 Memoria dinámica y arrays - 30 de agosto de 2024
 
 Revisar
 T: Tarea / PT: Programa de tarea
