@@ -6,4 +6,4 @@
   - Círculo azul indica el final
   - Matrices a resolver - https://drive.google.com/file/d/1t6cKf2ngwUIu9Q_cbq6vQ8FogemFOwZZ/view
   - nota: la matriz que se se encuentra numerada en la secuencia, deberá ser leída en sentido inverso, comenzando con la tercera fila y terminando con la primera.
-* PT4: Programas de memoria dinámica y matrices - revise el archivo "dynamic_arrays.md"
+* PT4: Programas de memoria dinámica y matrices - revise el archivo "dynamic_array.md"
