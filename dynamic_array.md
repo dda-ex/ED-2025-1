@@ -16,7 +16,7 @@ for(int i=0; i<5; i++) {
 }
 
 ```
-### Actividad
+### Actividad 1
 Realice un programa en C que genere una lista de los primeros 10 números pares, deberá imprimirlos en orden inverso.
 
 - posteriormente deberá modificar el valor almacenado en el índice correspondiente al último dígito de su número cuenta por -1
@@ -29,6 +29,7 @@ Número de cuenta 410092686
 ```markdown
 | 2 | 4 | 6 | 8 | 10 | 12 | -1 | 16 | 18 | 20 |
 ```
+- el nombre del programa deberá ser pt_4_dynamic_array_a1.c
 
 ## Arreglos bidimensionales
 La declaración de un arreglo bidimensional en lenguaje C se realiza de la siguiente forma.
@@ -50,7 +51,7 @@ for (int i = 0; i < rows; i++) {
 
 ```
 
-### Actividad 1
+### Actividad 2
 Considere el  siguiente arreglo matricial:
 
 ```markdown
@@ -68,8 +69,9 @@ Realice un programa que acepte una lista de *n* alumnos, el arreglo deberá ser 
 - El programa deberá imprimir los nombres de los alumnos en sentido inverso al que fueron ingresados o se encuentran almacenados.
 - Puede ser del tipo char todo el arreglo, solo recuerde hacer el "casteo" para los elementos numéricos.
 
-### Actividad 2
+- el nombre del programa deberá ser pt_4_dynamic_array_a2.c
 
+### Actividad 3
 Genere un arreglo dinámico variable bidimensional de acuerdo a su número de cuenta y será rellenado con los dígitos correspondientes a su cuenta. Por ejemplo para el número de cuenta 410592683:
 
 ```markdown
@@ -90,5 +92,8 @@ Genere un arreglo dinámico variable bidimensional de acuerdo a su número de cu
 if (ptr == NULL)
 	return -1;
 ```
+- el nombre del programa deberá ser pt_dynamic_array_a3.c
 
 Se recomienda la lectura del libro: Understanding and Using C Pointers, capítulo 4 y 5
+
+Nota: en caso de hacer todos los programas en uno solo el nombre del programa deberá ser: pt_4_dynamic_array_a123.c

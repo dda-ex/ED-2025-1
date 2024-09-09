@@ -6,4 +6,6 @@
   - Círculo azul indica el final
   - Matrices a resolver - https://drive.google.com/file/d/1t6cKf2ngwUIu9Q_cbq6vQ8FogemFOwZZ/view
   - nota: la matriz que se se encuentra numerada en la secuencia, deberá ser leída en sentido inverso, comenzando con la tercera fila y terminando con la primera.
+  - El nombre del progama deberá ser: pt_3_matrix_travel_a1.c
 * PT4: Programas de memoria dinámica y matrices - revise el archivo "dynamic_array.md"
+* PT5: Modificando la lista simple de enteros a caracteres - revise el directorio de la lista: code > main > list > actividad.md
