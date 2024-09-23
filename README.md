@@ -47,12 +47,12 @@ data_structure/
  * T2 Diagrama del factorial - 12 de agosto de 2024
  * PT3 Recorrido de matrices - 19 de agosto de 2024
  * PT4 Memoria dinámica y arrays - 30 de agosto de 2024
+ * PT6, PT7, PT8, PT9, PT10 - 14 de octubre de 2024
 
 Revisar
 T: Tarea / PT: Programa de tarea
 
 Revisar el documento en este git llamado tareas
-
 
 ### Entrega
 La entrega de los programás deberá ser en git

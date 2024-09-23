@@ -9,3 +9,8 @@
   - El nombre del progama deberá ser: pt_3_matrix_travel_a1.c
 * PT4: Programas de memoria dinámica y matrices - revise el archivo "dynamic_array.md"
 * PT5: Modificando la lista simple de enteros a caracteres - revise el directorio de la lista: code > main > list > actividad.md
+* PT6: Generar el archivo main de la lista doblemente ligada
+* PT7: Generar el archivo main de la lista circular
+* PT8: Generar el archivo header, source y main de la lista doblemente ligada circular
+* PT9: Modifique el archivo main para que acepte dobles.
+* PT10: Generar el archivo header, source y main de la Queue
